@@ -1,5 +1,6 @@
 ## Welcome to Dialogi.ca!
 
+1. Introduction: How to use Dialogi.ca
 1. E-Texts and Analysis
 1. Preparing a Text and Exploring It
 1. Sharing Results

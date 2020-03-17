@@ -21,7 +21,9 @@ Dialogica is a textbook for learning computer-assisted text analysis with [Voyan
 1. All sorts of useful links to other things
 
 ----
+
 [Dialogica Home](/index.md) | [Next: Introduction](/intro.md)
+
 ----
 &copy; Stéfan Sinclair & Geoffrey Rockwell
 

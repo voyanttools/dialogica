@@ -15,4 +15,5 @@ Dialogica is a textbook for learning computer-assisted text analysis with [Voyan
 1. Comparing Texts
 
 &copy; Stéfan Sinclair & Geoffrey Rockwell
+
 All materials on this site shared under a [Creative Commons By Attribution license](https://creativecommons.org/licenses/by/4.0/).

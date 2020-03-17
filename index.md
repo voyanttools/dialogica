@@ -7,6 +7,7 @@ Dialogica is a textbook for learning computer-assisted text analysis with [Voyan
 
 1. [Introduction](/intro.md): What is Dialogica? Ideas for using Voyant in your teaching.
 1. [E-Texts and Analysis](/etexts.md): Introducing Voyant and text analysis.
+> [Walkthrough 1: What is an electronic text and how can we study it?](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
 1. Preparing a Text and Exploring It
 1. Sharing Results
 1. Preparing a Corpus with Spreadsheets or XML
@@ -17,8 +18,9 @@ Dialogica is a textbook for learning computer-assisted text analysis with [Voyan
 1. Comparing Texts
 1. All sorts of useful links to other things
 
+----
 [Dialogica Home](/index.md) | [Next: Introduction](/intro.md)
-
+----
 &copy; Stéfan Sinclair & Geoffrey Rockwell
 
 All materials on this site shared under a [Creative Commons By Attribution license](https://creativecommons.org/licenses/by/4.0/).

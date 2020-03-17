@@ -3,7 +3,7 @@ Dialogica is a textbook for learning computer-assisted text analysis with [Voyan
 
 > Do you need online teaching ideas and materials? Dialogica was supposed to be a text book, but instead we are adapting it for use in online learning and self-study. It is shared under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) so you can adapt as needed.
 
-**Note**: We are writing this one chapter every couple of days. Send links and thoughts to @Voyant-Tools on Twitter.
+**Note**: We are writing this one chapter every couple of days. Send links and thoughts to [@VoyantTools on Twitter](https://twitter.com/VoyantTools).
 
 1. [Introduction](/intro.md): What is Dialogica? Ideas for using Voyant in your teaching.
 1. [E-Texts and Analysis](/etexts.md): Introducing Voyant and text analysis.

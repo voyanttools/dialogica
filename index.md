@@ -14,6 +14,8 @@ Dialogica is a textbook for learning computer-assisted text analysis with [Voyan
 1. The Arc of a Project
 1. Comparing Texts
 
+[Dialogica Home](/index.md) | [Next: Introduction](/intro.md)
+
 &copy; Stéfan Sinclair & Geoffrey Rockwell
 
 All materials on this site shared under a [Creative Commons By Attribution license](https://creativecommons.org/licenses/by/4.0/).

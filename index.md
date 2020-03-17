@@ -1,5 +1,5 @@
 ## Welcome to Dialogica!
-Dialogica is a textbook for learning computer-assisted text analysis with [Voyant](https://voyant-tools.org) and [Spyral](https://voyant-tools.org/spyral/). It complements our book [Hermeneutica: Computer-Assisted Interpretation in the Humanities](http://hermeneuti.ca)(MIT Press, 2016). 
+Dialogica is a textbook for learning computer-assisted text analysis with [Voyant](https://voyant-tools.org) and [Spyral](https://voyant-tools.org/spyral/). It complements our book [Hermeneutica: Computer-Assisted Interpretation in the Humanities](http://hermeneuti.ca) (MIT Press, 2016). 
 
 > Do you need online teaching ideas and materials? Dialogica was supposed to be a text book, but instead we are adapting it for use in online learning and self-study. It is shared under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) so you can adapt as needed.
 

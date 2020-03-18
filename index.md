@@ -3,7 +3,7 @@ Dialogica is a textbook for learning computer-assisted text analysis with [Voyan
 
     Do you need online teaching ideas and materials? Dialogica was supposed to be a text book, 
     but instead we are adapting it for use in online learning and self-study. It is shared under 
-    a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/) so you can adapt as needed.
+    a CC BY 4.0 license so you can adapt as needed.
 
 **Note**: We are writing this one chapter every couple of days. Send links and thoughts to [@VoyantTools on Twitter](https://twitter.com/VoyantTools).
 

@@ -7,6 +7,10 @@ Dialogica: Thinking-Through Voyant (DTTV) is a textbook for learning computer-as
 
 **Note**: We are writing this one chapter every couple of days. Send links and thoughts to [@VoyantTools on Twitter](https://twitter.com/VoyantTools).
 
+----
+
+## Contents
+
 1. [Introduction](/intro.md): What is Dialogica? What is our pedagogical philosophy and our model for using these?
 1. [E-Texts and Analysis](/etexts.md): Introducing Voyant and text analysis.
 

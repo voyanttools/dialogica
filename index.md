@@ -1,9 +1,7 @@
 ## Welcome to Dialogica: Thinking-Through Voyant!
 Dialogica: Thinking-Through Voyant (DTTV) is a textbook for learning computer-assisted text analysis with [Voyant](https://voyant-tools.org) and [Spyral](https://voyant-tools.org/spyral/). It complements our book [Hermeneutica: Computer-Assisted Interpretation in the Humanities](http://hermeneuti.ca) (MIT Press, 2016). 
 
-    Do you need online teaching ideas and materials? Dialogica was supposed to be a text book, 
-    but instead we are adapting it for use in online learning and self-study. It is shared here
-    under a CC BY 4.0 license so you can adapt as needed.
+<p style="text-indent: 40px">Do you need online teaching ideas and materials? Dialogica was supposed to be a text book, but instead we are adapting it for use in online learning and self-study. It is shared here under a CC BY 4.0 license so you can adapt as needed.</a>
 
 **Note**: We are writing this one chapter every couple of days. Send links and thoughts to [@VoyantTools on Twitter](https://twitter.com/VoyantTools).
 

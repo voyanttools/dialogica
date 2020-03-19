@@ -38,8 +38,8 @@ There are different ways to teach a module with this Walkthrough. We talk about 
 1. Have them work through the Walkthrough on their own.
     1. Think about how they can get technical support if they get stuck. Can you set up small groups that can provide peer support?
 1. Offer an online help session when you are available to help with technical questions.
-1. Close the unit with a lecture and discussion to reinforce the points import
-    1. Assign an exercise to see what students learned and to reinforce learning 
+1. Close the unit with a lecture and discussion to reinforce the points important to your course.
+    1. You can then assign an exercise to see what students learned and to reinforce the learning. 
 
 ----
 

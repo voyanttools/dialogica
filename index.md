@@ -16,7 +16,7 @@ Dialogica: Thinking-Through Voyant (DTTV) is a textbook for learning computer-as
 
     Download: [Walkthrough 1: What is an electronic text and how can we study it?](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
 
-3. Preparing a Text and Exploring It
+3. [Studying a Text](/study.md): How to prepare a text and explore it.
 1. Sharing Results
 1. Preparing a Corpus with Spreadsheets or XML
 1. Following a Theme Through a Text

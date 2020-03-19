@@ -35,7 +35,7 @@ There are different ways to teach a module with this Walkthrough. We talk about 
 
 1. Give a very **short introductory lecture** just to introduce students to what is expected and give them a peek at what Voyant should look like. This could be prerecorded or a set of slides.
     1. You could *set them an excercise* at the start to complete the unit.
-1. Have them *work through the Walkthrough* on their own.
+1. Have them **work through the Walkthrough** on their own.
     1. Think about how they can get *technical support* if they get stuck. Can you set up small groups that can provide peer support?
 1. Offer an **online help session** when you are available to help with technical questions.
 1. Close the unit with a **summative lecture and discussion** to reinforce the points important to your course.

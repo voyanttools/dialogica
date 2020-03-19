@@ -4,6 +4,7 @@ Dialogica: Thinking-Through Voyant (DTTV) is a textbook for learning computer-as
 ---
 
 Do you need online teaching ideas and materials? Dialogica was supposed to be a text book, but instead we are adapting it for use in online learning and self-study. It is shared here under a CC BY 4.0 license so you can adapt as needed.
+
 ---
 
 **Note**: We are writing this one chapter every couple of days. Send links and thoughts to [@VoyantTools on Twitter](https://twitter.com/VoyantTools).

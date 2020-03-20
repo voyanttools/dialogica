@@ -14,6 +14,9 @@ Do you need online teaching ideas and materials? Dialogica was supposed to be a 
 ## Contents
 
 1. [Introduction](/intro.md): What is Dialogica? What is our pedagogical philosophy and our model for using these?
+
+    [Play and introductory video welcoming you to Voyant](https://www.dropbox.com/s/xu34xrd8htxj9a4/Voyant%20Konichiwa.mp4?dl=0)
+
 1. [E-Texts and Analysis](/etexts.md): Introducing Voyant and text analysis.
 
     Download: [Walkthrough 1: What is an electronic text and how can we study it?](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)

@@ -29,7 +29,7 @@ Do you need online teaching ideas and materials? Dialogica was supposed to be a 
 1. Exploring a Corpus with Text Mining Tools
 1. The Arc of a Project
 1. Comparing Texts
-1. All sorts of useful links to other things
+1. [Other courses and useful links](/other.md)
 
 ----
 

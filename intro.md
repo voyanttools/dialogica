@@ -17,7 +17,7 @@ The Walkthroughs are self study materials that you can use to learn on your own 
 
 ### What is Voyant?
 
-Voyant is the collection of tools that evolved out of our experiments and these walkthroughs will show you how use Voyant for you own. Hermeneutica theorized computer-assisted text interpretation and included interludes where we showed the thinking-through of some experiments (see <http://hermeneuti.ca> for dynamic examples). DTTV takes the approach of weaving questions about electronic texts and text analysis together with hands-on walks that start with Voyant and then go beyond.
+Voyant (http://voyant-tools.org) is the collection of tools that evolved out of our experiments and these walkthroughs will show you how use Voyant for you own. Hermeneutica theorized computer-assisted text interpretation and included interludes where we showed the thinking-through of some experiments (see <http://hermeneuti.ca> for dynamic examples). DTTV takes the approach of weaving questions about electronic texts and text analysis together with hands-on walks that start with Voyant and then go beyond.
 
 ### Why all this dialogical discourse?
 
@@ -55,6 +55,10 @@ The Dialogica Walkthroughs have been written so that they could be used as self-
 1. Have an online office hour(s) when you are available for people who are having trouble. 
 1. Organize a discussion after students have finished the exercise to reinforce the ideas learned. 
 1. Provide a short summary lecture that then links to the next unit.
+
+## Other sources of ideas
+
+We have created a list of links to other ideas for teaching text analysis. See [Other courses and useful links](/other.html).
 
 ----
 

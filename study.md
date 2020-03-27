@@ -6,7 +6,7 @@
 
 ## About Walkthrough 2
 
-The second walkthrough is designed to take students through a simple project to give them a sense of the arc of a project. 
+The second walkthrough is designed to take students through a simple project to give them a sense of the arc of a project from finding a text to reporting about it. 
 
 ### Objectives
 

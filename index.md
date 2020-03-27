@@ -17,12 +17,15 @@ Do you need online teaching ideas and materials? Dialogica was supposed to be a 
 
     [Play and introductory video welcoming you to Voyant](https://youtu.be/nwzQ2sxhPKo)
 
-1. [E-Texts and Analysis](/etexts.md): Introducing Voyant and text analysis.
+2. [E-Texts and Analysis](/etexts.md): Introducing Voyant and text analysis.
 
     Download: [Walkthrough 1: What is an electronic text and how can we study it?](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
 
 3. [Studying a Text](/study.md): How to prepare a text and explore it.
-1. Sharing Results
+
+    Download: [Walkthrough 2: Studying a Text](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
+
+4. Sharing Results
 1. Preparing a Corpus with Spreadsheets or XML
 1. Following a Theme Through a Text
 1. Salient Words

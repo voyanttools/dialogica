@@ -19,8 +19,23 @@ The objectives of this walkthrough are to get students to the point where they c
 
 ### Discussion
 
+This walkthrough takes students through a simple project where they pick a text, upload it, study it and then report on it. Some general thoughts:
+
+- If your class is large and they are all hitting the Voyant server at the same time you may want to encourage students to download and run Voyant locally. See instructions at https://digihum.mcgill.ca/voyant/resources/run-your-own/voyant-server/
+- Some students may not understand what a plain text file is. You may want to emphasize the difference between a Word file and plain text.
+- Many students need help finding a text they are interested in. If your university has resources like an e-text library you can point them to those resources. You might show them how to browse the Gutenberg project.
+- This exercise works better if the work with a text they know, they can compare what Voyant is showing them to their memory of the text. 
 
 ### How to teach with this Walkthrough
+
+This walkthrough is designed to give students take students through a small project. One way to teach it might be to:
+
+- Discuss with students how they currently study a text and how they might. Ask them how a computer might help. Ask if any of them have ever used indexes, concordances or indexes.
+- Have students look at examples of analyses similar to what they could do. The interlude chapters from *Hermeneutica* are available with embedded Voyant panels here http://hermeneuti.ca . 
+- Assign the Walkthrough 2 to the students and give them an assignment to complete that shows they have mastered the skills. Feel free to edit the Walkthrough to suit your teaching. You could, for example, pick one of the exercises and adapt it or add your own.
+- Provide an online office hour or two when you answer technical questions. 
+- Depending on the exercise you asked students to do, you could have them present their results briefly to their groups or class.
+- Close the unit with a brief lecture where you talk about what they learned and discuss issues that came out of the exercises you got back. This is also a chance to step back and talk about how one might theorize text analysis.
 
 ----
 

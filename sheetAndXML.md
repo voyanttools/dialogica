@@ -1,10 +1,10 @@
 # Managing Corpora using Spreadsheets or XML
 
-*Note:* Teachers notes coming.
+**Note:** Teachers notes coming.
 
 ----
 
-[Dialogica Home](/index.md) | [Previous: E-texts and Analysis](/etexts.md) | [Next: Sharing Results](/share.md)
+[Dialogica Home](/index.md) | [Previous: Sharing Results](/share.md) | [Next: Following a Theme](/following.md)
 
 ----
 

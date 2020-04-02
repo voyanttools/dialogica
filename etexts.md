@@ -30,7 +30,7 @@ Here are some thoughts on teaching with this Walkthrough:
 - **Getting help** Instructors can email us if you run into trouble. There is also lots of online [Voyant Tools Help](https://voyant-tools.org/docs/#!/guide) available.
 - **Other languages** If you are teaching in another language the Voyant interface has different language skins and can handle many languages. See the [Voyant Help: Languages](https://voyant-tools.org/docs/#!/guide/languages).
 
-### How to teach with this Walkthrough
+### How to teach with this walkthrough
 There are different ways to teach a module with this Walkthrough. We talk about our general approach to teaching with these walkthroughs in the [Introduction](/intro.md). One model is to:
 
 1. Give a very **short introductory lecture** just to introduce students to what is expected and give them a peek at what Voyant should look like. This could be prerecorded or a set of slides.

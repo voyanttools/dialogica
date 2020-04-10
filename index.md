@@ -13,20 +13,21 @@ Do you need online teaching ideas and materials? Dialogica was supposed to be a 
 
 ## Contents
 
-1. [Introduction](/intro.md): What is Dialogica? What is our pedagogical philosophy and our model for using these?
+0. [Introduction](/intro.md): What is Dialogica? What is our pedagogical philosophy and our model for using these?
 
     [Play and introductory video welcoming you to Voyant](https://youtu.be/nwzQ2sxhPKo)
 
-2. [E-Texts and Analysis](/etexts.md): Introducing Voyant and text analysis.
+1. [E-Texts and Analysis](/etexts.md): Introducing Voyant and text analysis.
 
     Download: [Walkthrough 1: What is an electronic text and how can we study it?](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
 
-3. [Studying a Text](/study.md): How to prepare a text and explore it.
+2. [Studying a Text](/study.md): How to prepare a text and explore it.
 
     Download: [Walkthrough 2: Studying a Text](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
 
-4. Sharing Results
-1. [Managing Corpora with Spreadsheets or XML](sheetAndXML.md): How to use either spreadsheets or XML to manage a collection of documents.
+3. [Sharing Results](/share.md): How to share interactive Voyant panels in an online paper.
+
+4. [Managing Corpora with Spreadsheets or XML](sheetAndXML.md): How to use either spreadsheets or XML to manage a collection of documents.
 
     Download: [Walkthrough 4: Managing Corpora with Spreadhseets and XML](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
 

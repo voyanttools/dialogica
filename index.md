@@ -25,7 +25,9 @@ Do you need online teaching ideas and materials? Dialogica was supposed to be a 
 
     Download: [Walkthrough 2: Studying a Text](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
 
-3. [Sharing Results](/share.md): How to share interactive Voyant panels in an online paper.
+3. [Sharing Results: Exporting and Embedding](/share.md): How to share interactive Voyant panels in an online paper.
+
+    Download: [Walkthrough 3: Sharing Results: Exporting and Embedding](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
 
 4. [Managing Corpora with Spreadsheets or XML](sheetAndXML.md): How to use either spreadsheets or XML to manage a collection of documents.
 

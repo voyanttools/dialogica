@@ -33,9 +33,9 @@ Do you need online teaching ideas and materials? Dialogica was supposed to be a 
 
     Download: [Walkthrough 4: Managing Corpora with Spreadhseets and XML](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
 
+1. Exploring a Corpus with Text Mining Tools
 1. Following a Theme Through a Text
 1. Salient Words
-1. Exploring a Corpus with Text Mining Tools
 1. The Arc of a Project
 1. Comparing Texts
 1. [Other courses and useful links](/other.md)

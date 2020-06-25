@@ -37,8 +37,12 @@ Do you need online teaching ideas and materials? Dialogica was supposed to be a 
 
     Download: [Walkthrough 5: Exploring A Text](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
 
-1. Following a Theme Through a Text
-1. Salient Words
+6. Following a Theme Through a Text
+
+7. Salient Words: How to use the Visualizations, Corpus Terms and Document Terms tools to see what words stand out.
+
+    Download: [Walkthrough 7: Salient Words](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
+
 1. The Arc of a Project
 1. Comparing Texts
 1. [Other courses and useful links](/other.md)

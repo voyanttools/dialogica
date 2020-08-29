@@ -7,7 +7,7 @@ Do you need online teaching ideas and materials? Dialogica was supposed to be a 
 
 ---
 
-**Note**: We are writing this one chapter every couple of days. Send links and thoughts to [@VoyantTools on Twitter](https://twitter.com/VoyantTools).
+**Note**: We are writing this one chapter every month or so. Send links and thoughts to [@VoyantTools on Twitter](https://twitter.com/VoyantTools).
 
 ----
 

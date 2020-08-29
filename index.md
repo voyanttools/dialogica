@@ -45,10 +45,7 @@ Do you need online teaching ideas and materials? Dialogica was supposed to be a 
 
 1. Other chapters planned:
 
-    Following a theme through a text
-    The arc of a project
-    Clustering and comparing texts
-    The next step: introduction to Spryal
+    Following a theme through a text, The arc of a project, Clustering and comparing texts, The next step: introduction to Spryal
     
 
 ----

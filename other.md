@@ -4,7 +4,6 @@ Here we offer a curated list of other online course materials that can be used t
 
 1. Other courses and tutorials
 1. Useful text analysis links
-1. Learning Javascript
 
 ----
 ## Other courses and tutorials

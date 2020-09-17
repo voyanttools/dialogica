@@ -9,7 +9,7 @@ Do you need online teaching ideas and materials? Dialogica was supposed to be a 
 
 ---
 
-**Note**: We are writing this one chapter every month or so. Send links and thoughts to [@VoyantTools on Twitter](https://twitter.com/VoyantTools).
+Do you have a tutorial for Voyant you would like to adapt to *Dialogica*? Would you like to contribute? Send links and thoughts to Geoffrey Rockwell (grockwel at ualberta dot ca).
 
 ----
 

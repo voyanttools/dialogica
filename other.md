@@ -18,14 +18,14 @@ Here we offer a curated list of other online course materials that can be used t
 ----
 ## Useful text analysis links
 
+* [Text Analysis Portal for Research (TAPoR)](http://tapor.ca) is a registry of text analysis and digital humanities tools. You can discover tools that might help your research. TAPoR also has lists of convenient tools.
+* [The Journal of Cultural Analytics (CA)](https://culturalanalytics.org/) is a journal devoted to the computational study of culture with excellent articles illustrating and discussing how text analysis methods can be used. CA includes a section of edited and [reviewed datasets](https://culturalanalytics.org/section/1579-data-sets).
+* [Project Gutenberg](https://www.gutenberg.org/) is a collection of electronic texts that can be used in research and teaching. These are not always edited by scholars so be careful to check what you use. None the less, there is a critical mass of texts on Gutenberg.
+* [Women Writers Project](https://www.wwp.northeastern.edu/) is making pre-Victorian women writers accessible for research and learning.
 
 ----
-## Learning Javascript
 
-
-----
-
-[Dialogica Home](/index.md) | [Previous: Introduction](/intro.md) | [Next: Studying a Text](/study.md)
+[Dialogica Home](/index.md) | [Previous: Introduction](/intro.md)
 
 ----
 

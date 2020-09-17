@@ -64,7 +64,7 @@ We have created a list of links to other ideas for teaching text analysis. See [
 
 # Acknowledgements
 
-We thank all those who have worked with us on Voyant. The dialogical nature of this book comes from our conversations with each other, with others who have taught, and with our students. We recognize and will link to other teaching and learning materials related to Voyant. 
+We thank all those who have worked with us on Voyant. The dialogical nature of this book comes from our conversations with each other, with others who have taught, and with our students. Alas [Stéfan Sinclair passed in April of 2020](https://csdh-schn.org/stefan-sinclair-in-memoriam-2/) ending the dialogue that animated this collection. We maintain and add to this in his memory, especially the memory of all the work he put into developing usable tools like Voyant and teaching us to use them. 
 
 ----
 

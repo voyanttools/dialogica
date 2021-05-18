@@ -1,7 +1,7 @@
 ## Welcome to Dialogica: Thinking-Through Voyant!
 *Dialogica: Thinking-Through Voyant* (DTTV) is a textbook for learning computer-assisted text analysis with [Voyant](https://voyant-tools.org) and [Spyral](https://voyant-tools.org/spyral/). It complements our book [Hermeneutica: Computer-Assisted Interpretation in the Humanities](http://hermeneuti.ca) (MIT Press, 2016). 
 
-*Dialogica* was developed by Geoffrey Rockwell and Stéfan Sinclair in early 2020 to help those pivoting to online learning. We continue to add to it in [memory of Stéfan](https://csdh-schn.org/stefan-sinclair-in-memoriam-2/) who passed away in April. 
+*Dialogica* was developed by Geoffrey Rockwell and Stéfan Sinclair in early 2020 to help those pivoting to online learning. We continue to add to it in [memory of Stéfan](https://csdh-schn.org/stefan-sinclair-in-memoriam-2/) who passed away in August, 2020. 
 
 ---
 

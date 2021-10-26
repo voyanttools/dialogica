@@ -24,7 +24,8 @@ Voyant also allows you to specify **White List** of words which is the opposite 
 
 ## Help for Stopwords
 
-Help is available [here](https://voyant-tools.org/docs/#!/guide/stopwords).
+More help is available [here for Stopwords]https://voyant-tools.org/docs/#!/guide/stopwords).
+
 ----
 
 [Dialogica Home](/index.md) | [Voyant Help Files](/voyanthelp.md)

@@ -14,7 +14,7 @@ Voyants uses a Stopword list in most tools to control what words you see. By def
 4. To edit the list, just delete words or type them in. Then press **Save**.
 5. Note that you will now see a custom ID for the Stopword list in the Options panel. If you want to reuse this edited list in another Voyant session you should click on the ID and copy it so you can save it somewhere.
 
-<img src="/keyword.id.jpg" alt="Options Panel" width="300">
+<img src="/keyword.id.jpg" alt="Options Panel" width="400">
 
 
 

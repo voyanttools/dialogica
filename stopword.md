@@ -2,7 +2,7 @@
 
 Voyants uses a Stopword list in most tools to control what words you see. The list of words in the Stopword list are words that appear frequently like "the" and "and", but which we often are not interested in (unless studying such function words.) By default it is set to Auto-detect which detects the language you are using and, if we have a stopword list in that language, uses it. That means that in the Cirrus word cloud, for example, you don't see the most common words that are in the list. To choose or edit the list used do the following:
 
-<img src="/terms.options.jpg" alt="Options Panel" width="400">
+<img src="terms.options.jpg" alt="Options Panel" width="400">
 
 
 1. Select the **Options panel** in the tool you want to affect. (You can set them globally too!)

@@ -43,7 +43,9 @@ Do you have a tutorial for Voyant you would like to adapt to *Dialogica*? Would 
 
     Download: [Walkthrough 7: Salient Words](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
 
-1. [Other courses and useful links](/other.md)
+2. [The Voyant Help Files](/voyanthelp.md) is a collection of short help files that show things you can do with Voyant.
+
+4. 1. [Other courses and useful links](/other.md)
 
 1. Other chapters planned:
 

@@ -5,9 +5,13 @@ Voyants uses a Stopword list in most tools to control what words you see. By def
 <img src="/terms.options.jpg" alt="Options Panel" width="400">
 
 
-1. Select the Options panel in the tool you want to affect. (You can set them globally too!)
-2. Click on the menu where it says Auto-detect. That will give you choices if you want to force Voyant to use a language. Alternatively you can enter the ID of an edited stopword list right in the field.
-3. If you want to Edit the list then click the **Edit** button next to the field/menu.
+1. Select the **Options panel** in the tool you want to affect. (You can set them globally too!)
+2. Click on the menu where it says "Auto-detect". That will give you choices if you want to force Voyant to use a language. Alternatively you can enter the ID of an edited stopword list right in the field instead of "Auto-detect".
+3. If you want to Edit the list then click the **Edit** button next to the field/menu. That will open this panel:
+
+<img src="/stopword.edit.jpg" alt="Options Panel" width="300">
+
+4. To edit the list, just delete words or type them in. Then press **Save**.
 
 
 

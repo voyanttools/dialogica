@@ -45,7 +45,7 @@ Do you have a tutorial for Voyant you would like to adapt to *Dialogica*? Would 
 
 2. [The Voyant Help Files](/voyanthelp.md) is a collection of short help files that show things you can do with Voyant.
 
-4. 1. [Other courses and useful links](/other.md)
+4. [Other courses and useful links](/other.md)
 
 1. Other chapters planned:
 

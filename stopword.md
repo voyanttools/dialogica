@@ -22,7 +22,9 @@ Voyants uses a Stopword list in most tools to control what words you see. The li
 
 Voyant also allows you to specify **White List** of words which is the opposite of a stopword list. A White List is a list of words which you want to limit Voyant's visualization to. If you edit and save a White List then visualizations like the Cirrus word cloud will only show words on that list and no others. This can be a way of producing a visualization of specific words. Of course, other settings may mean that words in your White List don't show up. For example, if you limit the number of terms displayed to fewer than you have in your list.
 
-**Help** is available for [Stopwords](https://voyant-tools.org/docs/#!/guide/stopwords).
+## Help for Stopwords
+
+Help is available [here](https://voyant-tools.org/docs/#!/guide/stopwords).
 ----
 
 [Dialogica Home](/index.md) | [Voyant Help Files](/voyanthelp.md)

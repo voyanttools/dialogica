@@ -48,7 +48,7 @@ You will want to provide your students with resources to learn about the differe
 
 ----
 
-[Dialogica Home](/index.md) | [Previous: Studying a Text](/study.md) | [Next: Managing Corpora with Spreadsheets or XML](/sheetAndXML.md)
+[Dialogica Home](/index.md) | [Previous: Studying a Text](/study.md) | [Next: Managing Corpora](/sheetAndXML.md)
 
 ----
 

@@ -68,7 +68,7 @@ We thank all those who have worked with us on Voyant. The dialogical nature of t
 
 ----
 
-[Dialogica Home](/index.md) | [Next: E-Texts and Analysis](/extexts.md)
+[Dialogica Home](/index.md) | [Next: E-Texts and Analysis](dialogica/extexts.md)
 
 ----
 

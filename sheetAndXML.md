@@ -57,7 +57,7 @@ Here is an outline for how you might teach this as a module in a larger course. 
 
 ----
 
-[Dialogica Home](/index.md) | [Previous: Sharing Results](/share.md) | [Next: Following a Theme](/following.md)
+[Dialogica Home](/index.md) | [Previous: Sharing Results](/share.md) | 
 
 ----
 

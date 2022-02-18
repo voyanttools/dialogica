@@ -21,7 +21,7 @@ Do you have a tutorial for Voyant you would like to adapt to *Dialogica*? Would 
 
 1. [E-Texts and Analysis](/etexts.md): Introducing Voyant and text analysis.
 
-    Download: [Walkthrough 1: What is an electronic text and how can we study it?](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
+    Download: [Walkthrough 1: What is an electronic text and how can we study it?](https://drive.google.com/drive/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw?usp=sharing)
 
 2. [Studying a Text](/study.md): How to prepare a text and explore it.
 

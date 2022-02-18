@@ -25,23 +25,23 @@ Do you have a tutorial for Voyant you would like to adapt to *Dialogica*? Would 
 
 2. [Studying a Text](/study.md): How to prepare a text and explore it.
 
-    Download: [Walkthrough 2: Studying a Text](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
+    Download: [Walkthrough 2: Studying a Text](https://drive.google.com/drive/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw?usp=sharing)
 
 3. [Sharing Results: Exporting and Embedding](/share.md): How to share interactive Voyant panels in an online paper.
 
-    Download: [Walkthrough 3: Sharing Results: Exporting and Embedding](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
+    Download: [Walkthrough 3: Sharing Results: Exporting and Embedding](https://drive.google.com/drive/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw?usp=sharing)
 
 4. [Managing Corpora with Spreadsheets or XML](sheetAndXML.md): How to use either spreadsheets or XML to manage a collection of documents.
 
-    Download: [Walkthrough 4: Managing Corpora with Spreadhseets and XML](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
+    Download: [Walkthrough 4: Managing Corpora with Spreadhseets and XML](https://drive.google.com/drive/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw?usp=sharing)
 
 5. Exploring a Corpus with Text Mining Tools: How to use text mining tools to develop conjectures about a collection.
 
-    Download: [Walkthrough 5: Exploring A Text](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
+    Download: [Walkthrough 5: Exploring A Text](https://drive.google.com/drive/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw?usp=sharing)
 
 6. Salient Words: How to use the Visualizations, Corpus Terms and Document Terms tools to see what words stand out.
 
-    Download: [Walkthrough 7: Salient Words](https://drive.google.com/drive/u/0/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw)
+    Download: [Walkthrough 7: Salient Words](https://drive.google.com/drive/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw?usp=sharing)
 
 2. [The Voyant Help Files](/voyanthelp.md) is a collection of short help files that show things you can do with Voyant.
 

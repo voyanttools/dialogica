@@ -25,7 +25,7 @@ The Walkthrough is built around workshops we give that take about 2 to 3 hours d
 
 Here are some thoughts on teaching with this Walkthrough:
 
-- **Run your own version of Voyant** If you are demonstrating Voyant online or in a class then you should make sure you have a local copy that you can switch to. As your students start trying Voyant the main server may slow down so you want to have an alternative for continuing the lesson. See [Run your own Voyant Server](https://digihum.mcgill.ca/voyant/resources/run-your-own/voyant-server/) for instructions on how to download and run your own.
+- **Run your own version of Voyant** If you are demonstrating Voyant online or in a class then you should make sure you have a local copy that you can switch to. As your students start trying Voyant the main server may slow down so you want to have an alternative for continuing the lesson. See [Voyant Server](https://github.com/voyanttools/VoyantServer) for instructions on how to download and run your own.
 - **Getting started** We have a [Getting Started](https://voyant-tools.org/docs/#!/guide/start) section in the help that you can use to help students get started quickly if you find our Walkthrough too verbose.  
 - **Getting help** Instructors can email us if you run into trouble. There is also lots of online [Voyant Tools Help](https://voyant-tools.org/docs/#!/guide) available.
 - **Other languages** If you are teaching in another language the Voyant interface has different language skins and can handle many languages. See the [Voyant Help: Languages](https://voyant-tools.org/docs/#!/guide/languages).

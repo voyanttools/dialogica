@@ -30,7 +30,7 @@ Of course! We hope you do get distracted by the tools. That's a great way to lea
 ----
 # Our Teaching Philosophy
 
-Our teaching philosophy is to start by showing tools and asking questions and then let students play with the tools. For this reason we start our workshops on Voyant by showing a simple [Word Cloud](https://bit.ly/2lH9One) and asking students what they think they are seeing. Then we let them loose to play with the simple panel. You can see the [script that we use in introductory hands-on workshops here](http://hermeneuti.ca/intro-workshop).  In our in-classroom teaching we tend to:
+Our teaching philosophy is to start by showing tools and asking questions and then let students play with the tools. For this reason we start our workshops on Voyant by showing a simple [Word Cloud](https://bit.ly/2lH9One) and asking students what they think they are seeing. Then we let them loose to play with the simple panel. You can see the [script that we use in introductory hands-on workshops here](https://philosophi.ca/pmwiki.php/Main/IntroductionToVoyant).  In our in-classroom teaching we tend to:
 
 - Ask general questions to orient students. These are not questions that have definite answers and students aren't expected to know the answers they are to get them thinking before they read or play with anything.  
 - Show them a tool and how to use it. While showing the tool we might often ask questions to get students thinking about how to figure tools out for themselves.

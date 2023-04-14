@@ -14,7 +14,11 @@ You can do this by:
 4. Enter a code for both the Admin Code and for the Access Code. You can actually list more than one Access Code separated by commas. 
 5. Now click OK on the dialogue box and then upload your text as you would normally. If you try to access it, you will need to enter one of the Access Codes.
 
+For more information about the Admin Code and Access Code options see the [Help documentation for Access Management](https://voyant-tools.org/docs/#!/guide/corpuscreator-section-access-management). 
+
 ## Running the Voyant Server Locally
 
-The second way to restrict access is to run the Voyant Server on your local machine. That way the indexes are on your machine and can't be access by anyone else.
+The second way to restrict access is to run the Voyant Server on your local machine. That way the indexes are on your machine and can't be access by anyone else. You will then be running the server and accessing it from the same machine so that no one else can get at the corpora. For instructions on setting up your own [Voyant Server go here.](https://voyant-tools.org/docs/#!/guide/server)
+
+
 

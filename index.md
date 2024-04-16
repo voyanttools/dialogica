@@ -39,17 +39,21 @@ Do you have a tutorial for Voyant you would like to adapt to *Dialogica*? Would 
 
     Download: [Walkthrough 5: Exploring A Text](https://drive.google.com/drive/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw?usp=sharing)
 
-6. Salient Words: How to use the Visualizations, Corpus Terms and Document Terms tools to see what words stand out.
+6. Following a Theme Through a Text: Using different tools to research a theme in a text or corpus. This Walkthrough follows Walkthrough 5: Exploring a Text where you learned how to identify possible themes.
+
+    Download: [Walkthrough 6: Following a Theme](https://drive.google.com/drive/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw?usp=sharing)
+
+7. Salient Words: How to use the Visualizations, Corpus Terms and Document Terms tools to see what words stand out.
 
     Download: [Walkthrough 7: Salient Words](https://drive.google.com/drive/folders/1a2VRBO_vULjZ7t5t2DA8wMN0hQNC18zw?usp=sharing)
 
-2. [The Voyant Help Files](/voyanthelp.md) is a collection of short help files that show things you can do with Voyant.
+8. [The Voyant Help Files](/voyanthelp.md) is a collection of short help files that show things you can do with Voyant.
 
-4. [Other courses and useful links](/other.md)
+9. [Other courses and useful links](/other.md)
 
 1. Other chapters planned:
 
-    Following a theme through a text, The arc of a project, Clustering and comparing texts, The next step: introduction to Spryal
+    The arc of a project, Visualization, Clustering and comparing texts, The next step: introduction to Spryal
     
 
 ----

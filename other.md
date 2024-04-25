@@ -8,6 +8,7 @@ Here we offer a curated list of other online course materials that can be used t
 ----
 ## Other courses and tutorials
 
+* [Video Resources for Voyant](https://docs.google.com/document/d/1glOQh5CbecQ9UYaJ6XblaxC0zX4FMSBq4SrxiKCdhag/edit) is an annotated set of links to different videos or video playlists of tutorials about Voyant. It includes links to tutorials in languages other than English.
 * [Voyant Gallery: Examples of Voyant in Teaching](https://voyant-tools.org/docs/#!/guide/gallery-section-examples-of-voyant-in-teaching) is a set of links to materials others have put up from example student blog posts to syllabi.
 * [The Art of Literary Text Analysis](https://github.com/sgsinclair/alta/blob/master/ipynb/ArtOfLiteraryTextAnalysis.ipynb) is a full course on doing text analysis with Python by us, Stéfan Sinclair and Geoffrey Rockwell. It is composed of a set of IPython notebooks that show you how to use IPython notebooks to do text analysis.
 * [The Programming Historian](https://programminghistorian.org/) is a set of peer-reviewed tutorials on all sorts of digital humanities subjects. The [list of English lessons are here](https://programminghistorian.org/en/lessons/); there are also lessons in French and Spanish. Many of the lessons deal with text acquisition, management and analysis processes.
